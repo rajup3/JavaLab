@@ -7,8 +7,10 @@ public class StaticTest {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println(" >>>  ");
+		System.out.println(" static test starts  ");
 		
+		
+		System.out.println(" static test ends  ");
 	}
 
 }
