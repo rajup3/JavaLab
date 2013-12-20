@@ -7,10 +7,10 @@ public class StaticTest {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println(" static test starts  ");
+		System.out.println(" 10 .. static test starts  ");
 		
 		
-		System.out.println(" static test ends  ");
+		System.out.println(" 13 .. static test ends  ");
 	}
 
 }
